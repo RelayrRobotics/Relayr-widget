@@ -1,5 +1,7 @@
 # @relayrrobotics/pay-widget
 
+[GitHub](https://github.com/RelayrRobotics/Relayr-widget) · [npm](https://www.npmjs.com/package/@relayrrobotics/pay-widget)
+
 Drop-in helper for Relayr's **real** pay flow:
 
 1. `pay.createSession` → Settlement Splitter address + session ref  
